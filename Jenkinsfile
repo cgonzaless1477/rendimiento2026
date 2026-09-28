@@ -4,7 +4,7 @@ pipeline {
 
     environment {
         JMETER_HOME = 'C:\\apache-jmeter-5.6.3'
-        JMETER_TEST = 'tests\\escenario-principal.jmx'
+        JMETER_TEST = 'test\\Clase9.jmx'
         JMETER_JTL  = 'results\\resultados.jtl'
     }
 
